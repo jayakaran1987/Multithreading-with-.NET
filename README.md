@@ -1,4 +1,6 @@
 Exercise 1
+
+
 7 different vehicles are involved in a race:
  
 1.       2 x BMW
