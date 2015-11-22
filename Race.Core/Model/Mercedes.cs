@@ -8,5 +8,7 @@ namespace Race.Core.Model
 {
     public class Mercedes : Vehicle
     {
+        // Some unique Mercedes Properties are listed 
+        //public string MercedesClass { get; set; }
     }
 }

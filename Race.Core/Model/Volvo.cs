@@ -8,5 +8,7 @@ namespace Race.Core.Model
 {
     public class Volvo : Vehicle
     {
+        // Some unique Volvo Properties are listed 
+        //public string VolvoRegistrationNumber { get; set; }
     }
 }
