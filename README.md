@@ -1,5 +1,6 @@
-Exercise 1
+# Multithreading with .NET
 
+### Application
 
 7 different vehicles are involved in a race:
  
